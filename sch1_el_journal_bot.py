@@ -4,4 +4,4 @@ from aiogram import Bot,
 # https://pypi.org/project/aiogram/
 
 @echo off # служебные команды не будут спамить в канал
-print('hello')  
+print('hello')
